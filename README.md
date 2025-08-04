@@ -11,3 +11,5 @@ Ces données sont utilisées pour comprendre les tendances et ne sont pas stock�
 
 ## Politique de confidentialité
 Cette application ne collecte, ne stocke ni ne partage aucune donnée personnelle des utilisateurs. Toutes les requêtes API sont faites de manière sécurisée. # samsaoulg.github.io
+[tiktoksLDrbokMROBcJDhcMLChAnzYNJrrk1qO.txt](https://github.com/user-attachments/files/21583161/tiktoksLDrbokMROBcJDhcMLChAnzYNJrrk1qO.txt)
+tiktok-developers-site-verification=sLDrbokMROBcJDhcMLChAnzYNJrrk1qO
